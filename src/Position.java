@@ -1,0 +1,5 @@
+public enum Position {
+    DIRECTOR, ADMINISTRATOR, MANAGER, CLIENT, ANONYMOUS;
+
+
+}
